@@ -9,17 +9,3 @@ This project is part of a challenge where the goal is to replicate the provided 
 - **React**
 
 - **Tailwind CSS** for styling
-
-### Bonus Tasks
-
-- Add **sorting** functionality to tables
-
-- Make the **chat** feature interactive (e.g., chatbot)
-
-- Implement **pagination**
-
-## Deployment & Submission
-
-1.  **Deploy on Vercel**: Share the live URL.
-
-2.  **GitHub Repo**: Share the GitHub repository link along with the README.
