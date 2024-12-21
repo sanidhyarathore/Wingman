@@ -11,11 +11,15 @@ function Button({ title, svg }) {
 
 export default function Topbar() {
     return (
-        <div className="flex space-x-4 h-[94px] bg-[#ffffff]">
-            <Button title="Summary" />
-            <Button title="Chat" />
-            <Button title="Sales" />
+        <div className="flex flex-col min-w-[1380px]">
+            <div className="flex space-x-4 h-[94px] items-center bg-[#ffffff]">
+                <Button title="Summary" />
+                <Button title="Chat" />
+                <Button title="Sales" />
+            </div>
+            <div className="h-px bg-[#DCDFE4] "></div>
         </div>
-    )
+    );
 }
+
 
