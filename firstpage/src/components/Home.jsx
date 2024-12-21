@@ -1,3 +1,4 @@
+import Card from "./Card"
 
 function Home() {
     return (
@@ -9,7 +10,14 @@ function Home() {
                 <button className="bg-red-100 rounded-[10px]">7 Days</button>
             </div>
 
-            <div className="">c2</div>
+            <div className="pt-[32px] pr-[24px] pb-[32px] pl-[24px] grid grid-cols-3 gap-4">
+                <Card />
+                <Card />
+                <Card />
+                <Card />
+                <Card />
+                <Card />
+            </div>
             <div className="">c3</div>
             <div className="">c4c</div>
             <div className="">c5</div>
