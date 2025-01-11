@@ -3,7 +3,7 @@ import Topbar from "./Topbar"
 
 const Dashboard = () => {
     return (
-        <div className="flex-col bg-white text-red-200">
+        <div className="flex-col bg-white text-red-500">
             <Topbar />
             <Home />
         </div>
