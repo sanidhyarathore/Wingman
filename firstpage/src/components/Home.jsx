@@ -5,7 +5,7 @@ function Home() {
         <div className='w-[1300px] h-auto max-h-[1591px] overflow-hidden m-[20px] border-[1px] border-[#DCDFE4] rounded-[20px] flex-col items-center justify-center'>
             <div className="flex pt-[32px] pr-[24px] pb-[16px] pl-[24px]">
                 <div className="flex w-full gap-8 ">
-                    <h4 className="text-3xl font-semibold text-gray-800">At a glance</h4>
+                    <h4 className="text-3xl font-bold text-gray-800">At a glance</h4>
                 </div>
                 <button className="bg-red-100 rounded-[10px]">7 Days</button>
             </div>
