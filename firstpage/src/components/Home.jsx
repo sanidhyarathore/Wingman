@@ -17,6 +17,7 @@ function Home() {
                 <Card />
                 <Card />
                 <Card />
+                <Card />
             </div>
             <div className="">c3</div>
             <div className="">c4c</div>
